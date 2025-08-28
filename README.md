@@ -73,4 +73,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * TensorFlow team for deep learning tools
 * Chart.js for visualization capabilities
 
-Would you like me to modify any part of this formatted description?
